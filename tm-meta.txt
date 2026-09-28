@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         el-meu-temps-timespans
+// @description	 Here goes the description
+// @author       carlostxrres
+// @version      0.0.1
+// @match        https://aec-elmeucalendari.ajuntament.bcn/ca/
+// @grant        GM.xmlHttpRequest
+// @grant        GM.getValue
+// @grant        GM.setValue
+// @grant        GM.deleteValue
+// @grant        GM_addStyle
+// @noframes
+// ==/UserScript==

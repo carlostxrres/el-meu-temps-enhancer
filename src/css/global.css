@@ -1,0 +1,16 @@
+/* Your CSS goes here */
+
+.timespan {
+    --hue: 250;
+    color: oklch(0.2 0.6 var(--hue));
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.timespan.green {
+    --hue: 140;
+}
+
+.timespan.red {
+    --hue: 0;
+}
