@@ -2,7 +2,9 @@
 // @name         el-meu-temps-timespans
 // @description	 Here goes the description
 // @author       carlostxrres
+// @source       https://github.com/carlostxrres/el-meu-temps-enhancer
 // @version      0.0.1
+// @updateURL    https://raw.githubusercontent.com/carlostxrres/el-meu-temps-enhancer/refs/heads/main/dist/index.cjs
 // @match        https://aec-elmeucalendari.ajuntament.bcn/ca/
 // @grant        GM.xmlHttpRequest
 // @grant        GM.getValue
